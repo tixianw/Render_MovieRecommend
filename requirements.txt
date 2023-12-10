@@ -4,5 +4,4 @@ pandas
 numpy
 requests
 logging
-io
 gunicorn
